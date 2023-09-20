@@ -1,0 +1,25 @@
+{
+  "name": "cute-validations",
+  "version": "1.0.0",
+  "description": "Validations",
+  "main": "dist/index.js",
+  "private": false,
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferhataltundal/cute-validations.git"
+  },
+  "files": [
+    "dist /**/*"
+  ],
+  "author": {
+    "name": "Ferhat ALTUNDAL",
+    "email": "ferolinka1850@hotmail.com",
+    "url": "https://github.com/ferhataltundal"
+  },
+  "license": "ISC"
+}
